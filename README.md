@@ -14,7 +14,7 @@ Penetration Testing: Mastering the art of ethical hacking and penetration testin
 Pursuing relevant certifications to validate my skills and expertise in cybersecurity.
 - 🛠️ **_Skills_ :**
 **_Programming Languages_:** Python,SQL
-**_Operating Systems_:** Linux, Windows
+- **_Operating Systems_:** Linux, Windows
 - 🤝 **_Let's Connect!_**
 I'm always open to connecting with like-minded individuals, cybersecurity enthusiasts, and professionals. Feel free to reach out for discussions, collaborations, or just to share interesting insights!
 
