@@ -2,7 +2,7 @@
 - 👋 Hi there! I'm Abeer Shrivastava, and I'm passionate about diving into the fascinating world of Cybersecurity. Welcome to my GitHub profile repository!
 - **_About Me_ :** 
 I am a dedicated learner exploring the vast realm of cybersecurity. My journey involves continuous learning, hands-on experiences, and a thirst for knowledge in the ever-evolving field of digital security.
-- 🔍 _Interests_ :
+- 🔍 **_Interests_ :** 
 Cybersecurity: My primary focus is on understanding and mastering the nuances of cybersecurity. From ethical hacking to threat intelligence, I'm on a mission to enhance my skills and contribute to a safer digital environment.
 
 - **_Learning_ :**
@@ -22,4 +22,4 @@ I'm always open to connecting with like-minded individuals, cybersecurity enthus
 Cybersecurity is a collaborative effort. Join me on this exciting journey as we explore, learn, and contribute to making the digital space safer for everyone. Feel free to explore my repositories, and don't hesitate to share your thoughts or feedback.
 
 Happy coding and stay secure! 🔒✨
---->
+
